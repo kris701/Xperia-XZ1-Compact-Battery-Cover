@@ -2,6 +2,11 @@
 
 This was a little project for my old Sony Xperia XZ1 compact. After a few years, its battery are no longer doing so well, so i thought it could be a fun project to make a battery case for it. Doing this effectively doubled the original battery capacity (added a 3000mAh battery).
 
+<p align="center">
+  <img width=400 src="https://user-images.githubusercontent.com/22596587/126671872-8e69db71-949c-47a5-9d6a-c53a1d1abcc4.jpg">
+  <img width=400 src="https://user-images.githubusercontent.com/22596587/126671947-400624d5-3af6-45e8-88df-ac9fe2372ae9.jpg">
+</p>
+
 ## Electronics 
 
 For the project i used 3 off the shelf components, being a 3000mAh battery, a charger board and a angled USB-C wire.
