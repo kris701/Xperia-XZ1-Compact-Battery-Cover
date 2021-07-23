@@ -7,7 +7,7 @@ This was a little project for my old Sony Xperia XZ1 compact. After a few years,
   <img width=400 src="https://user-images.githubusercontent.com/22596587/126671947-400624d5-3af6-45e8-88df-ac9fe2372ae9.jpg">
 </p>
 
-## Electronics 
+## Electronic Parts
 
 For the project i used 3 off the shelf components, being a 3000mAh battery, a charger board and a angled USB-C wire.
 All items was brought on E-Bay, with the links under the picture.
@@ -16,13 +16,18 @@ All items was brought on E-Bay, with the links under the picture.
 |:---:|:---:|:---:|
 | [*Charger Board*](https://www.ebay.com/itm/124259709453) | [*Battery*](https://www.ebay.com/itm/254975227847) | [*USB-C Cable*](https://www.ebay.com/itm/362982312533) |
 
+### Wiring
 The charger board also have a normal USB interface on the back of it, so wiring is fairly self explanatory.
- 
+![image](https://user-images.githubusercontent.com/22596587/126750524-ef07635e-480b-422d-98c6-155b3f5ab466.png)
+
+
 ## Print Parts
 |![image](https://user-images.githubusercontent.com/22596587/126669883-f8fb9790-8a40-4836-b80a-aa49dc4b0b9c.png) | ![image](https://user-images.githubusercontent.com/22596587/126669949-f49727fb-b662-4a0c-b84a-b1a4ec2d6c2e.png) | ![image](https://user-images.githubusercontent.com/22596587/126669994-b631e964-2f7a-461b-9841-95e81aeab96f.png) | ![image](https://user-images.githubusercontent.com/22596587/126670031-a6c6f28e-abbd-4f27-a9d7-742219916c2e.png) |
 |:---:|:---:|:---:|:---:|
 | *Bottom Part* | *Bottom Part Lid* | *Top Part* | *Top Part Lid* |
- 
+
+The parts are put together with some small 4mm M2 screws and bolts that i had.
+
 ## Printer settings
 
 The config for a SnapMaker Original can be found under "Printing Config"
