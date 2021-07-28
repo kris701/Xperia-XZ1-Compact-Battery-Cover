@@ -3,8 +3,9 @@
 This was a little project for my old Sony Xperia XZ1 compact. After a few years, its battery are no longer doing so well, so i thought it could be a fun project to make a battery case for it. Doing this effectively doubled the original battery capacity (added a 3000mAh battery).
 
 <p align="center">
-  <img width=400 src="https://user-images.githubusercontent.com/22596587/126671872-8e69db71-949c-47a5-9d6a-c53a1d1abcc4.jpg">
-  <img width=400 src="https://user-images.githubusercontent.com/22596587/126671947-400624d5-3af6-45e8-88df-ac9fe2372ae9.jpg">
+  <img width=300 src="https://user-images.githubusercontent.com/22596587/127379027-1a905161-5a49-40e3-a79b-7680b809e606.jpg">
+  <img width=300 src="https://user-images.githubusercontent.com/22596587/127379031-c4c0f2af-022c-43cb-93df-8198d7d5fb5d.jpg">
+  <img width=300 src="https://user-images.githubusercontent.com/22596587/127379035-82ae5ba1-ec26-455c-8ef0-18c01893f55e.jpg">
 </p>
 
 ## Electronic Parts
@@ -22,7 +23,7 @@ The charger board also have a normal USB interface on the back of it, so wiring 
 
 
 ## Print Parts
-|![image](https://user-images.githubusercontent.com/22596587/126669883-f8fb9790-8a40-4836-b80a-aa49dc4b0b9c.png) | ![image](https://user-images.githubusercontent.com/22596587/126669949-f49727fb-b662-4a0c-b84a-b1a4ec2d6c2e.png) | ![image](https://user-images.githubusercontent.com/22596587/126669994-b631e964-2f7a-461b-9841-95e81aeab96f.png) | ![image](https://user-images.githubusercontent.com/22596587/126670031-a6c6f28e-abbd-4f27-a9d7-742219916c2e.png) |
+|![image](https://user-images.githubusercontent.com/22596587/127379635-2e17163f-da07-4a92-aace-7a2ebce509c9.png) | ![image](https://user-images.githubusercontent.com/22596587/127379693-981414dd-3241-4e1b-8755-876af99e5fe5.png) | ![image](https://user-images.githubusercontent.com/22596587/127379583-df7f0a4f-3ff4-47c3-ab9f-da6637289f30.png) | ![image](https://user-images.githubusercontent.com/22596587/127379520-4e781f36-af85-4f4f-bc06-8824157468a4.png) |
 |:---:|:---:|:---:|:---:|
 | *Bottom Part* | *Bottom Part Lid* | *Top Part* | *Top Part Lid* |
 
